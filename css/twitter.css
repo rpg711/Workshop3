@@ -1,0 +1,53 @@
+body {
+  padding-top: 60px;
+}
+
+.navbar-btn-left {
+  border: none;
+  background-color: inherit;
+  color: gray;
+}
+
+.navbar-btn-right {
+  background-color: white;
+  color: black;
+}
+
+.t-search {
+  width: 221px;
+}
+
+.panel-body {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.right-tweet-buttons{
+  padding-left: 0px !important;
+  padding-right: 5px !important;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+.panel-footer {
+    padding-top: 10px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+hr {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+
+.favicon {
+  color: grey;
+  padding-right: 20px;
+}
